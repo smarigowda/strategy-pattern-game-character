@@ -1,3 +1,3 @@
-interface IWeapon {
+export interface IWeapon {
     useWeapon(): void;
 }
